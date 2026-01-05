@@ -1,6 +1,6 @@
 
 ## Ksenia Sintsova - Math, Formal verification
-I am an Expert at [Institute of Cyber Intelligence Systems](https://eng.mephi.ru/institutes/icis), National Research Nuclear University “Moscow Engineering Physics Institute”, Moscow. The topics of my research are *Theory of functions of a complex variable*, *formal verification*, *formal modeling*, *network theory*.
+I am an Expert at [Institute of Cyber Intelligence Systems](https://eng.mephi.ru/institutes/icis), National Research Nuclear University “Moscow Engineering Physics Institute”, Moscow. The topics of my research are *theory of functions of a complex variable*, *formal verification*, *formal modeling*, *network theory*.
 
 Selected publications: 
 - [Sintsova K. A., Shirokov N. A., Approximation by Polynomials Composed of Weierstrass Doubly Periodic Functions, Vestnik St. Petersburg University, Mathematics, 56, pages 46–56, 2023](https://dspace.spbu.ru/items/d69b1701-8cfe-441e-a90e-851d1c8e1a3f)
