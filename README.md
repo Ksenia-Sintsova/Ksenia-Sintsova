@@ -1,9 +1,9 @@
 
 ## Ksenia Sintsova - Math
-I am an Expert at [Institute of Cyber Intelligence Systems](https://eng.mephi.ru/institutes/icis), National Research Nuclear University “Moscow Engineering Physics Institute”, Moscow. The topics of my research are *math*.
+I am an Expert at [Institute of Cyber Intelligence Systems](https://eng.mephi.ru/institutes/icis), National Research Nuclear University “Moscow Engineering Physics Institute”, Moscow. The topics of my research are *Theory of functions of a complex variable*, *formal verification*, *formal modeling*, *network theory*.
 
 Selected publications: 
-- [Synthetic Fibrosis Distributions for Data Augmentation in Predicting Atrial Fibrillation Ablation Outcomes: an In-silico Study](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1512356/full) :computer:[Project code](https://github.com/pcmlab/AF_ablation_DT)
+- [Sintsova K. A., Shirokov N. A., Approximation by Polynomials Composed of Weierstrass Doubly Periodic Functions, Vestnik St. Petersburg University, Mathematics, 56, pages 46–56, 2023.]([https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1512356/full](https://dspace.spbu.ru/items/d69b1701-8cfe-441e-a90e-851d1c8e1a3f)) :computer:[Project code](https://github.com/pcmlab/AF_ablation_DT)
 
 
 
