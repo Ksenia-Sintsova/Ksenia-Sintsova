@@ -1,5 +1,5 @@
 
-## Ksenia Sintsova - Mathematics, Formal verification
+## Ksenia Sintsova - Math, Formal verification
 I am an Expert at [Institute of Cyber Intelligence Systems](https://eng.mephi.ru/institutes/icis), National Research Nuclear University “Moscow Engineering Physics Institute”, Moscow. The topics of my research are *Theory of functions of a complex variable*, *formal verification*, *formal modeling*, *network theory*.
 
 Selected publications: 
