@@ -1,5 +1,5 @@
 
-## Ksenia Sintsova - Math
+## Ksenia Sintsova - Mathematics, Formal verification
 I am an Expert at [Institute of Cyber Intelligence Systems](https://eng.mephi.ru/institutes/icis), National Research Nuclear University “Moscow Engineering Physics Institute”, Moscow. The topics of my research are *Theory of functions of a complex variable*, *formal verification*, *formal modeling*, *network theory*.
 
 Selected publications: 
@@ -10,15 +10,14 @@ Selected publications:
 
 
 ### :mortar_board: Education
--  BSc in Telecommunications at [Peter the Great St.Petersburg Polytechnic University] (https://english.spbstu.ru/), 2014.
--  MSc in Information and Communication Technologies and Communication Systems at [Saint Petersburg National Research University of Information Technologies, Mechanics and Optics]([https://www.mipt.ru/en/](https://itmo.ru/), 2018.
--  [PhD in Mathematics](https://web.archive.org/web/20220517213313/https://crei.skoltech.ru/cdise/people/alexanderzolotarev) at [Skoltech](https://www.skoltech.ru/), 2024.
+-  BSc in Telecommunications at [Peter the Great St.Petersburg Polytechnic University](https://english.spbstu.ru/), 2014.
+-  MSc in Information and Communication Technologies and Communication Systems at [Saint Petersburg National Research University of Information Technologies, Mechanics and Optics](https://itmo.ru/), 2018.
+-  [PhD in Mathematics] at [Higher School of Economics](https://www.hse.ru/info/), 2024.
 
 
 ### :mortar_board: Current project
 
-Formal verification, 2026 - 2029
+Formal verification, 2026 - 2030.
 
-### :mortar_board: Past projects
-  - Mapping populations to patients: designing optimal ablation therapy for atrial fibrillation through simulation and deep learning of digital twin, chaired by Dr Caroline Roney (Queen Mary University of London, UK); 03.2023 – 08.2025;
+
   
