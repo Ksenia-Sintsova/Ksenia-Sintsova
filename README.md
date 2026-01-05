@@ -9,14 +9,10 @@ Selected publications:
 
 
 
-### :mortar_board: Education and Work Experience
-- BSc in Telecommunications at [Peter the Great St.Petersburg Polytechnic University] <img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/734fd02f-c97b-4937-abe2-63e309f7d1be" />
-
--  MSc in Information and Communication Technologies and Communication Systems at [Saint Petersburg National Research University of Information Technologies, Mechanics and Optics]([https://www.mipt.ru/en/](https://itmo.ru/), 2018;
--  MD in General Medicine at [Sechenov University](https://www.sechenov.ru/eng/), 2018;
--  [PhD in Biomedical Data Science](https://web.archive.org/web/20220517213313/https://crei.skoltech.ru/cdise/people/alexanderzolotarev) at [Skoltech](https://www.skoltech.ru/), 2022;
--  [PostDoctoral Research Associate](https://www.sems.qmul.ac.uk/staff/a.zolotarev) at [Queen Mary University of London](https://www.qmul.ac.uk/), 2023-2025;
--  Senior ML Engineer, Huawei Techn., Lomonosov Research Centre, Moscow, 2025.
+### :mortar_board: Education
+-  BSc in Telecommunications at [Peter the Great St.Petersburg Polytechnic University] (https://english.spbstu.ru/), 2014.
+-  MSc in Information and Communication Technologies and Communication Systems at [Saint Petersburg National Research University of Information Technologies, Mechanics and Optics]([https://www.mipt.ru/en/](https://itmo.ru/), 2018.
+-  [PhD in Mathematics](https://web.archive.org/web/20220517213313/https://crei.skoltech.ru/cdise/people/alexanderzolotarev) at [Skoltech](https://www.skoltech.ru/), 2024.
 
 
 ### :mortar_board: Current project
