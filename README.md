@@ -10,9 +10,10 @@ Selected publications:
 
 
 ### :mortar_board: Education
--  BSc in Telecommunications at [Peter the Great St.Petersburg Polytechnic University](https://english.spbstu.ru/), 2014.
--  MSc in Information and Communication Technologies and Communication Systems at [Saint Petersburg National Research University of Information Technologies, Mechanics and Optics](https://itmo.ru/), 2018.
 -  [PhD in Mathematics] at [Higher School of Economics](https://www.hse.ru/info/), 2024.
+-   MSc in Information and Communication Technologies and Communication Systems at [Saint Petersburg National Research University of Information Technologies, Mechanics and Optics](https://itmo.ru/), 2018.
+-  BSc in Telecommunications at [Peter the Great St.Petersburg Polytechnic University](https://english.spbstu.ru/), 2014.
+
 
 
 ### :mortar_board: Job Experience
