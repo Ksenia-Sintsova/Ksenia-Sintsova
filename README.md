@@ -15,6 +15,12 @@ Selected publications:
 -  [PhD in Mathematics] at [Higher School of Economics](https://www.hse.ru/info/), 2024.
 
 
+### :mortar_board: Job Experience
+- 04/2025 - 11/2025 - Kaspersky Lab, NGFF Stream. Team lead of the Systems Analysis.
+- 07/2023 - 02/2025 - MTS Digital, NGFF Stream. Team lead of the Systems Analysis and tech documentation.
+- 01/2022 - 07/2023 - InfoTecs, Department of Quantum Cryptography, Systems Analyst.
+- 08/2020 - 07/2023 - HSE University, Visiting Lecturer.
+
 ### :mortar_board: Current project
 
 Formal verification, 2026 - 2030.
