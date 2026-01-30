@@ -11,7 +11,7 @@ Selected publications:
 
 
 ### :mortar_board: Education
--  PhD in Mathematics at [Higher School of Economics](https://www.hse.ru/info/), 2024.
+-  PhD in [Mathematics](https://www.hse.ru/data/xf/685/733/2133/%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf) at [Higher School of Economics](https://www.hse.ru/info/), 2024.
 -  MSc in Information and Communication Technologies and Communication Systems at [Saint Petersburg National Research University of Information Technologies, Mechanics and Optics](https://itmo.ru/), 2018.
 -  BSc in Telecommunications at [Peter the Great St.Petersburg Polytechnic University](https://english.spbstu.ru/), 2014.
 
